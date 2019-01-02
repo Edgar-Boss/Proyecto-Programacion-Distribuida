@@ -1,0 +1,14 @@
+c:\users\snk93\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+c:\users\snk93\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+c:\users\snk93\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+c:\users\snk93\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+c:\users\snk93\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.Form1.resources
+c:\users\snk93\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+c:\users\snk93\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+c:\users\snk93\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+c:\users\snk93\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+c:\users\snk93\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+c:\users\snk93\source\repos\Proyecto\Proyecto\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\SNK93\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.Chat.resources
+C:\Users\SNK93\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.ChatForm.resources
+C:\Users\SNK93\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.LoginForm.resources
